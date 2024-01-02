@@ -1,9 +1,6 @@
-Credits to: v0oid, countdown, spikevegeta, headstrong, seancass, tokyo, lackattack, kbz, et al
+Credits to: v0oid, countdown, spikevegeta, headstrong, seancass, tokyo, lackattack, kbz, jp, et al
 
-TO-DO
-
-*****need input on using timed attacks for Bundt’s candle phase to keep gauge up vs time loss of using lots of timed attacks vs losing it and gaining it again before Raspberry (probably a good idea)
-*****everything that is written in this color needs/deserves to be timed/tested
+*****Everything with this grey background color is a backup strat
 
 ***Koopa’s Keep***
 
@@ -14,23 +11,24 @@ KOOPA
 Untimed Jump to Shydelier x2
  
 ***Mario's Pad***
-Talk to Toad from bottom right
-Attempt to leave
-Mash through Save tutorial
-Leave and go to Bowser’s Keep
+•	Talk to Toad from bottom right
+•	Attempt to leave
+•	Mash through Save tutorial
+•	Leave and go to Bowser’s Keep
  
 ***Bowser’s Keep***
-Cutscenes
+•	Cutscenes
 
 ***Mario's Pad***
-2nd option for action command text prompt (3rd Text Box after Toad turns away from Goomba)
+•	2nd option for action command text prompt (3rd Text Box after Toad turns away from Goomba)
  
 ***Mushroom Way***
-Grab 5 coins from each chest (You can grab 2 extra coins from the 2nd chest if you really really really want a safety heal before Bowyer)
-Do flower jump and get the flower in the chest from left platform, then drop down to the Flower Tab behind the ambushing Goomba below
+•	Get 10 total coins between the first 2 chests
+•	Do flower jump and get the flower in the chest from left platform, then drop down to the Flower Tab behind the ambushing Goomba below
+•	Use the Flower Tab before the Hammer Bros fight
  
 HAMMER BROS  (50 HP ea) (Chain/Gauge starts tracking on this fight):
-Untimed Attack left
+Untimed Jump left
 Timed Jump on right
 Timed Jump on left
 Timed Jump on right
@@ -43,51 +41,53 @@ SELL: 3 or 4 Mushrooms (need at least 12 coins from Mushroom Way to keep the 4th
 BUY: 1 Honey Syrup
            Jump Shoes (equip)
 
-Get frog coin in castle (2nd opportunity to get it at no cost after Bundt)
-SAY NO TO MENU TUTORIAL (2nd Text Box after Chancellor stops Mario the first time)
-Jump for tha lady
-Pick top option for Mallow
-Head to the East exit of Mushroom Kingdom, talk with the toad, then leave for Bandit’s Way
+
+•	Get frog coin in castle (2nd opportunity to get it at no cost after Bundt)
+•	SAY NO TO MENU TUTORIAL (2nd Text Box after Chancellor stops Mario the first time)
+•	Jump for tha lady
+•	Pick top option for Mallow
+•	Head to the East exit of Mushroom Kingdom, talk with the toad, then leave for Bandit’s Way
  
 ***Bandit's Way*** 
-Jump straight down and land on left petal of the rotating flower
-Skipping stepping on very first platform
-Get the hidden KeroKeroCola by jumping cardinal right off of 2nd rotating flower
-0Kill 16+ K-9’s (20 dogs is preferred as it lets you kill Belome faster)  Millnium's strat, start practicing!
- 
-***FROM HERE UNTIL MOLEVILLE MINES STAR LEVEL UPS WILL NOT SYNC TO THE NOTES IF YOU GOT LESS THAN 20 DOGS***
+•	Jump straight down and land on left petal of the rotating flower
+•	Skipping stepping on very first platform
+•	Get the hidden KeroKeroCola by jumping cardinal right off of 2nd rotating flower
+•	Kill 16+ K-9’s (19 is optimal)  Example of 19 Dogs, start practicing!
 
 [LEVEL (if 18+ dogs)] 
 	Mario [2] : SP
 	Mallow [3] : SP
-
-USE YOUR FLOWER ITEMS NOW BEFORE FIGHTING CROCO (15 FP)
 
 CROCO (320 HP):
 Jump / Defend
 Jump / Defend
 Jump / Defend
 Jump / Honey Syrup
-Jump / Defend rest of turns (can mistime one Jump and still kill, an untimed Jump will require an additional jump)
-***Croco skips a turn after his Weird Mushroom, should kill 2 Jumps after the Weird Mushroom
+Jump / Defend
+Jump / Defend
+Jump / Defend
+
+***Croco skips a turn after his Weird Mushroom, should kill 2 Jumps after the Weird Mushroom (7 total)
 
 [LEVEL (if less than 18 dogs)] 
 	Mallow [3] : SP
 
-Map -> Mushroom Kingdom
+
+•	Warp to Mushroom Kingdom
 
 ***Mushroom Kingdom 2***
-Go to the shop
+•	Go to the shop
 
-Sell: Wallet (Also sell Croaka Cola if you are opting to not do Wiggler Jumps)
+Sell: Wallet
 
 Buy: 
-	3 Honey Syrup (Only buy 2 if you are not doing Wiggler jumps)
+	2 Honey Syrup
 	2 Pick Me Up
 	2 Cleansing Juice
 
-Use both Flower Tabs after you’re past the room with the 2 Shymores, right before the Claymorton cutscene (16 FP)
-Avoid the stairs and go to the left of the Shysters to skip part of the pre-fight dialogue
+
+•	Use all Flower Tab and Flower Jar after you’re past the room with the 2 Shymores, right before the Claymorton cutscene (16 FP). If you encounter one of those Shymores, Defend with Mario and Thunderbolt with Mallow.
+•	Avoid the stairs and go to the left of the top row of Shysters to skip part of the pre-fight dialogue
 
 CLAYMORTON (480 HP - 16 FP):
 Jump (Left x2) / Thunderbolt
@@ -97,48 +97,40 @@ Jump / Thunderbolt
 Jump / Defend
 Jump / Thunderbolt
 
-***If you mistime a Jump, Jump instead of defending with Mario, Honey Syrup with Mallow, then Defend / Thunderbolt
-***If you half-time ONE Jump, you can attack with Mario instead of defend on the last turn
 ***This strategy requires you to keep chain up, or you will have to go more turns and use your 2nd Honey Syrup
 
 [LEVEL (if 20 dogs) ] 
 	Mario [3] : ATK
 
-Try to leave instead of talking to Chancellor
-After cutscenes, there’s an idling Toad right next to the Frog coin chest if you reenter the castle. That Toad will also be there after you acquire Peach.
-After exiting the castle, Warp to World Map
+
+•	Try to leave instead of talking to Chancellor
+•	After cutscenes, there’s an idling Toad right next to the Frog coin chest if you reenter the castle. That Toad will also be there after you acquire Peach.
+•	After exiting the castle, Warp to World Map
 
 ***Kero Sewers***
+•	Skip Huhwhat and the Sewers star Example of the movement to Belome
 
 BELOME (500 HP):
 Jump / Thunderbolt
 Jump / Thunderbolt
 
-Sleep Sauce turn 2:
+No Sleep Sauce:				Yes Sleep Sauce:
 
-[Cleansing Juice] / Thunderbolt
-
-If Scarecrow misses:
-
-Honey Syrup -> Cry while you wait for Belome to wake Mario up
+Jump / Honey Syrup				[Cleansing Juice] / Thunderbolt
+Jump / Thunderbolt
+Jump /						If Scarecrow misses:
+Jump						Honey Syrup -> Cry as you wait for Belome to wake Mario up
 Jump 
 Jump / Thunderbolt
 Jump / Thunderbolt
-If anything Belome does after Thunderbolt then just reset or improvise, Never Lucky™
+•	If anything Belome does after Thunderbolt then just reset or improvise, Never Lucky™
 
 If Scarecrow hits:
 
 Jump / Honey Syrup
 Jump 
-Jump / Defend (if 19 or less dogs use Thunderbolt instead)
+Jump / Defend 
 Jump
-
-Otherwise:
-
-Jump / Honey Syrup
-Jump / Thunderbolt
-Jump /
-Jump / Thunderbolt (Only need this if you got less than 20 dogs)
 
 [LEVEL (if less than 20 dogs)] 
 	Mario [3] : ATK
@@ -147,46 +139,39 @@ Jump / Thunderbolt (Only need this if you got less than 20 dogs)
 	Mallow [4] : SP
 
 ***Midas River***
-Stay left, get 4 Frog Coins and 10 Coins
-If you follow the barrel section perfectly you should end up with 60 coins (stay left for 1st set, then bonk the barrel to end up right on 2nd set onwards, grab every coin you can from there)
-Grabbing exactly 60 coins saves a text box when talking to the Toad.
-If you fall short, you can grab extras in Moleville Mines and Marrymore Inn, or just do extra Wiggler jumps
+•	Video reference, ty kbz
+•	Stay left, get 4 Frog Coins and 10 Coins
+•	If you follow the barrel section perfectly you should end up with 60 coins (stay left for 1st set, then bonk the barrel to end up right on 2nd set onwards, grab every coin you can from there)
+•	Grabbing exactly 60 coins saves a text box when talking to the Toad.
+o	If you fall short, you can grab extras in Moleville Mines and Marrymore Inn, or just do extra Wiggler jumps
 
 ***Tadpole Pond***
-Jump
-Say no to Frogfucius
-After Mallow is not a tadpole, Warp to World Map
+•	Jump
+•	Say no to Frogfucius
+•	After Mallow is not a tadpole, Warp to World Map
 
 ***Rose Way*** 
-Get the two big coins (10 each).
-After Bowser cutscene Warp to World Map
+•	Get the two big coins (10 each)
+•	Collect 3 coins between the 3 single coin chests  
+•	After Bowser cutscene Warp to World Map
 
 ***Rose Town***
-If you are choosing to forego Wiggler jumps for other frog coin options, collect the frog coin in the shop as well as the 2 flowers and hidden frog coin chest in the house on the hill, the Map Warp to Rose Town
-Go to the inn
-Pick 2nd option for Gaz (lying is faster) 
-1st Text Box after he presents Mario the Mario Doll
-Warp to World Map
+•	Collect the frog coin in the shop as well as the 2 flowers and hidden frog coin chest in the house on the hill
+•	Warp to Rose Town
+•	Go to the inn
+•	Pick 2nd option for Gaz (lying is faster) 
+o	1st Text Box after he presents Mario the Mario Doll
+•	Warp to World Map
 
 ***Forest Maze***
-Get Kero hidden chest on first screen
-If you really really really want a safety heal before Bowyer, pick up your favorite freestanding mushroom along the way. This, along with the mushroom you saved from extra coins in Mushroom Way, offer some safety for half-blocked Bowyer attacks
-6 Wiggler Jumps (if any were missed earlier, do more Wiggler Jumps and get to 12 Frog Coins)
-Frog Coin Hidden Chest
-Kero Hidden Chest behind Wiggler Elevator
-Get Red Essence in hidden chest before Save Point
+•	Get Kero hidden chest on first screen
+•	4 Wiggler Jumps
+o	If any were missed earlier, do more Wiggler Jumps and get to 12 Frog Coins
+•	Frog Coin Hidden Chest
+•	Kero Hidden Chest behind Wiggler Elevator
+•	Get Red Essence in hidden chest before Save Point
 
-BOWYER (720 HP - 16FP):
-Toad Assist for Flower Essence with Geno (pause buffer on Star Gust) / Jump / Defend
-Geno Beam / Defend / Honey Syrup
-Geno Beam / Defend / Defend
-Geno Beam / Defend / Defend
-Geno Beam / Defend / Defend
-Geno Beam / Defend / Defend
-Attack / Defend / Defend
-Attack
-
-(18FP):
+BOWYER (720 HP - 18FP)
 Toad Assist for Flower Essence with Geno (pause buffer on Star Gust) / Jump / Defend
 Geno Beam / Defend / Defend
 Geno Beam / Defend / Defend
@@ -199,11 +184,8 @@ Attack
 [LEVEL (if less than 19 dogs)] 
 	Mallow [4] : SP
 
-If you did Wiggler jumps, skip to the Moleville section
 
-***Pipe Vault***
-Take the 2nd pipe in the hallway full of pipes, collect the 2 hidden chests and slide/duck under the platform for 3 frog coins
-Warp to World Map
+•	Warp to World Map
 
 ***Moleville***
 BUY:
@@ -212,22 +194,25 @@ BUY:
 	1 Finger Shot (equip)
 	4 Work Pants (equip the first 3 to your party)
 
-*Should be a little faster to wait until you see Croco running solo then go back one screen and wait for him, have to dodge fireball a lot.
-CROCO 2 (750 HP):
 
+•	After the cutscene where Croco blows up the 2nd wall, go back a room and then return in the same room you were in and wait for him.
+
+CROCO 2 (750 HP):
 Attack / Jump / Attack 
 Attack / Jump / Attack
 Attack / Jump / Attack
 Attack / Jump / Attack
 Attack
-(Continue to Jump and Attack with Mallow and Geno if you mistimed anything or got any Misses)
+
+***Continue to Jump and Attack with Mallow and Geno if you mistimed anything or got any Misses
 
 [LEVEL] 
-	Mario [4] : SP
+	Mario [4] : ATK
 
-Get backup frog coin if needed (take the lower train track path below the Star Box)
-Use star to kill 10 enemies (if you miss a bomb, fight the ‘’forced’’ Chain-Chomp encounter in Booster Tower (worth 7-9 EXP, which should also cover you in case you miss other enemies(Tbolt + Any physical? WIP))
-Go back for the coin chest (150) (Skip this if you did not do Wiggler jumps)
+
+•	Get backup frog coin if needed (take the lower train track path below the Star Box)
+•	Use star to kill 10 enemies (you can miss 1 enemy here and still be fine to continue)
+•	HIT THE LIGMA CHEST ONCE ON YOUR FIRST VISIT THROUGH THE ROOM
 
 [LEVEL] 
 	Mario [5] : SP
@@ -235,9 +220,8 @@ Go back for the coin chest (150) (Skip this if you did not do Wiggler jumps)
 Geno [7] : HP
 
 PUNCHINELLO (1200 HP):
-
-Attack / Attack / Star Riders (If gauge is not built, Attack)
-Attack / Attack / Star Riders (If gauge is not built, Attack)
+Attack / Attack / Star Riders (Or attack if no gauge, use Star Riders asap with Mallow)
+Attack / Attack / Attack
 
 If Sandstorm round 2:
 
@@ -253,126 +237,134 @@ Attack / Attack /  Attack
 Attack / Attack / Attack
 Attack (if you need this attack and have not been sandstormed or mistimed an attack, you are the most Never Lucky to ever exist)
 
-** A perfect fight kills with Mario in round 4 with good damage rolls, with worst damage rolls this can go all the way to Geno round 5
+***A perfect fight kills with Mario in round 4 with good damage rolls, with worst damage rolls this can go all the way to Geno round 5
 
-** Star Riders turn 1 should only happen if you miss 2 or more attacks on Croco and at least one of those misses is Geno
 
-Do minecart shortcut for free sub-2 
-Warp To World Map after Snifit cutscene
+•	Do minecart shortcut for free sub-2
+•	You want 127 coins from the minecart minigame
+•	Needed for optimal coin route: Room 2 and Room 3, get to learning gamers :)
+•	Warp To World Map after Snifit cutscene
 
 ***Booster Pass***
-Examine 2nd Artichoker on the right for a Frog Coin
-Hidden Chest for Rock Candy
+•	Examine 2nd Artichoker on the right for a Frog Coin
+•	Hidden Chest for Rock Candy
 
 ***Booster Tower***
-2nd option for switch allies text prompt
-If you did not do Wiggler jumps, step on the button to unlock the hidden area of Booster Pass
-Get Frog Coin Hidden Chest in upper right corner of 2nd room
-Get Frog Coin in lower left corner of room after Thwomp see-saw room
-Get Frog Coin in the crevice in same area
-Get all Frog Coins + Room Key in checkerboard room
-Get Zoom Shoes
-Fight the ‘’forced’’ Chain-Chomp encounter in Booster Tower to fix EXP route if needed (7-9FP, Tbolt + Any physical? WIP)
-Get Goody Bag and Frog Coin in last room before curtain room (hidden chest above visible one)
-Do not fail curtain minigame and automatically receive Booster’s Charm
+•	2nd option for switch allies text prompt
+•	Get Frog Coin Hidden Chest in upper right corner of 2nd room
+•	Get Frog Coin in lower left corner of room after Thwomp see-saw room
+•	Get Frog Coin in the crevice in same area
+•	Get all Frog Coins + Room Key in checkerboard room
+•	Get Zoom Shoes
+•	Get Goodie Bag and Frog Coin in last room before curtain room (hidden chest above visible one)
 
 MENU:
-Switch -> Geno with Bowser
-Mario: Booster’s Charm (Press L x2)
+Swap Mallow for Bowser
 Bowser: Zoom Shoes + Work Pants
 
+•	Fail Booster mini game as fast as possible
+
+BOOSTER & SNIFSTERS (900/200 HP):
+Rock Candy / Terrorize / Jump
+Attack / Attack / Jump
+Swap to Mallow and Attack / Attack / **Attack if low rolled
+
 KNIFE GUY & GRATE GUY (700/900 HP):
-Terrorize / Rock Candy / Fireball
+Terrorize / Fireball Knife Guy / Swap to Geno and Attack
 
-IF GRATE GUY FEARS OR SLEEPS BOWSER:
+If Terrorize misses Knife Guy:	If Terrorize misses Knife Guy and Mario is muted:
+Attack GG / Attack GG / Fireball KG			Attack GG / Cleansing Juice / Fireball KG
 
-Swap to Geno and Attack / Attack / Attack
-Attack
+If Grate Guy sleeps Bowser:			Otherwise:
+Swap to Geno and Attack / Attack / Attack		Attack / Swap to Geno and Attack / Attack
+Attack							Attack
 
-OTHERWISE:
-
-Attack / Swap to Geno and Attack / Attack
-Attack
-
-
-***Booster Hill***
-2nd option
-Collect at least 8 flowers to not need any backups before Boomer. (6 if you opted to do rose town instead of 2 Wiggler Jumps)
-
-***Marrymore***
-Walk down center of sidewalk for cutscene
-Take back entrance
-Jump for Snifit before door
-After crashing through Snifit Door, talk to the door
-
-MENU:
-Order: Mario -> Geno -> Bowser
-Swap Mario and Bowser’s accessories (Zoom Shoes on Mario, Booster’s Charm on Bowser)
-
-BUNDT (900 HP):
-
-Phase 1:
-Attack (left x1) / Attack / Attack
-Swap to Mallow and CCB / Defend with Mario / Attack
-
-Candle Phase:
-Red Essence / Attack
-Attack / Attack / Attack if Mallow is alive, otherwise switch to Geno and Attack / Attack
-If swap:
-Attack / Attack / Attack
-If no swap:
-Attack / Attack / Switch to Geno and Attack / Attack
-
-Raspberry (600 HP): 
-Attack / Attack / Jump, repeat until dead
-
-**If you mistime an attack before candle phase or just got unlucky damage rolls, defend until Geno’s next turn to start the candle phase
+***If Terrorize misses Grate Guy, do the fight as normal with a few extra hits on Grate Guy. 
+***If Terrorize misses both of them, Defend x2 and go for Terrorize again on your next turn. If Grate Guy ends up muting or sleeping Bowser, turn the console off.
 
 [LEVEL]
 	Mallow [6] : SP
 
-Leave w/ Peach
+***Booster Hill***
+•	2nd option
+•	Collect at least 3 flowers at a minimum, however 14 is optimal to not need any backup flowers
+o	This assumes you did not get the Flower Box drop from Croco 2, which reduces the optimal count to 9 and minimum to 0. The notes that account for backup flowers will not reflect this reduction going forward in this document, you’ll just have to subtract 5 on the fly
 
-***Mushroom Kingdom 3***
-Turn in Mallow’s Coin for Cricket Pie
-Head to Chancellor
-ABC
-Warp to Tadpole Pond after Peach finally joins
+Summary of Backup Flowers:
+Nimbus Flower Jar > Volcano chest > Nimbus chest near Heavy Troopa > Cannonball Balance chest > Nimbus chest in room where you jump on NPC's head > Sunken Ship hidden > Rotating Platforms chest > Vines chest > Sea chest
 
-***Tadpole Pond*** 
-Talk to Frogfucius to open Star Hill
-Warp to Marrymore and leave for Star Hill
-If you did not do Wiggler jumps, Warp to Booster Pass instead
-
-If you did Wiggler jumps, skip to Star Hill
-
-***Booster Pass***
-In the secret area, skip the Apprentice encounter: Here is a video to reference from headstrong
-Warp to World Map, then continue to Star Hill 
-
-***Star Hill***
- Section 1
- Bottom middle
- Rightmost
-Bottom left
-Upper left
-Upper right
-Section 2
-Upper right
-Bottom right
-Bottom middle
-Lower left
-Middle
-Upper left
-Section 3
-Go for Star
-Jump into cutscene towards Mario’s destination; save some frames over walking into place
+***Marrymore***
+•	Walk down center of sidewalk for cutscene
+•	Take back entrance
+•	Jump for Snifit before door
+•	After crashing through Snifit Door, talk to the door
 
 MENU:
- 	Party Order: Mario, Mallow, Geno
-Unequip all Weapons and Zoom Shoes, and equip Booster’s Charm to Mario
+Order: Mario -> Mallow -> Geno
+Bowser: Unequip Work Pants, Zoom Shoes
+
+BUNDT (900 HP):
+
+Phase 1
+Geno Attack (168-178) / Mario Star Riders (438-470) / Mallow Swap to Bowser and Attack (150)
+Geno Swap to Mallow and Defend / Mario Defend / Bowser Attack (120)
+Dmg range before Bowser final attack = 756-798
+
+
+Candle Phase ( * means untimed for this phase):
+Red Essence (Mario on himself) / *Attack
+*Attack / *Attack
+
+Mallow is dead:				Mallow is alive:
+Swap to Geno and *Attack / *Attack		*Attack
+Attack / Attack / Attack			Attack / Attack / Switch to Geno and Attack / Attack	
+
+Raspberry (600 HP): 			 
+Attack / Jump / Attack 			
+Repeat until dead. Ultimate struggle bus
+
+[LEVEL]	
+Mario [6] : ATK
+Bowser [9] : ATK
+
+•	Leave w/ Peach
+
+***Mushroom Kingdom 3***
+•	Turn in Mallow’s Coin for Cricket Pie
+•	Head to Chancellor
+•	ABC
+•	Warp to Tadpole Pond after Peach finally joins
+
+***Tadpole Pond*** 
+•	Talk to Frogfucius to open Star Hill
+•	Warp to Marrymore and leave for Star Hill
+
+***Star Hill***
+•	 Section 1
+o	Bottom middle
+o	Rightmost
+o	Bottom left
+o	Upper left
+o	Upper right
+•	Section 2
+o	Upper right
+o	Bottom right
+o	Bottom middle
+o	Lower left
+o	Middle
+o	Upper left
+•	Section 3
+o	Go for Star
+o	Jump into cutscene towards Mario’s destination; save some frames over walking into place
+
+MENU:
+ 	Party Order: Mario -> Mallow -> Geno
+Peach: unequip Slap Glove (**do not unequip Lovely Dress)
+Bowser: Work Pants
+Geno: Unequip Finger Shot
+Mallow: Equip Froggie Stick
+Mario: Equip Hammer, Unequip Jump Shoes
 Warp to World Map
-	
 
 ***Seaside Town***
 SELL:
@@ -381,33 +373,33 @@ Goodie Bag
 All weapons
 All accessories
 
-BUY (need at least 1730 coins):
-1 Poison Mushroom (if you don’t have enough coins for it, don’t worry about it) 
-2 Fright Bombs
-2 Ice Bombs
-5 Fire Bombs (But these last so you can just tap down and go straight to 5)
+BUY (need at least 1750 coins):
 
-Talk to Fake Elder (top left house)
-Buy Experience Booster from Frog Disciple on top floor and equip to Mallow
-Warp To World Map880
+1 Ice Bomb			
+7 Fire Bomb
+1 Fright Bomb
+						
+•	Talk to Fake Elder (top left house)
+•	Buy Experience Booster from Frog Disciple on top floor and equip to Mallow
+•	Warp To World Map
 
 ***Sea***
-Get star, kill every Starslap (14 total)
+•	Star movement coming soon™
+•	Get star, kill every Starslap (14 total) (If you miss 2 Starslaps, or 1 Starslap + 1 or 2 Bob-ombs in Mines you are fine to continue, any less and you will not get Shocker before Yaridovich)
+•	Go into the door above you and get the chest with the flower in it if you scored less than 4 flowers on Booster Hill (utter despairge)
 
 [LEVEL] 
-Mario [6] : ATK
-	Mario [7] : ATK
+	Mario [7] : SP
 	Mallow [7] : SP
 	Mallow [8] : SP
-	Geno  [8] : HP
-	Bowser [9] : ATK
+	Geno [8] : HP
 	Peach [10] : HP
 
-Jump into the water and swim to the further whirlpool to save ~1 second (beware of the Blooper!)
+•	Jump into the water and swim to the further whirlpool to save ~1 second (beware of the Blooper!)
 
 ***Sunken Ship***
-Backup flower in the corner behind crates
-Get the coins from the coin box down the stairs (100)
+•	Collect the hidden flower behind the crates if you scored less than 7 flowers on Booster Hill
+•	Get the coins from the coin box down the stairs (100)
 
 ---Password hit pattern—
 Calamari
@@ -416,316 +408,299 @@ Calamari
 *you are here looking ^
 
 KING CALAMARI (800 HP):
-Boost Mallow / Fire Bomb / Defend
-Boost Mario / Fire Bomb / Fire Bomb
-Defend / Fire Bomb / Jump
+Boost Mario / Fire Bomb / Fire Bomb	
+Swap to Bowser and Attack / Fire Bomb / Fire Bomb
+Fireball / Defend / Attack
 
-Get the 2 coin boxes before Clone room (100 + 100)
-Grab Clone Kero
-Grab Safety Ring
+•	Get the 2 coin boxes before Clone room (100 + 100)
+•	Grab Clone Kero (You can effectively double-jump off the clone to hit the chest easier)
+•	Grab Safety Ring
 
-BANDANA REDS (120 HP ea):
-Defend / Timed Thunderbolt (130 all)
+BANDANA REDS (120 HP each):
+Defend / Thunderbolt (130 all)
 
 [LEVEL] 
-Mallow [9] : SP
+	Mallow [9] : SP
 	Geno [9] : ATK
-
-BANDANA REDS (120 HP ea):
-Defend / Timed Thunderbolt (145 all)
+Bowser [10]: ATK
+ 
+BANDANA REDS (120 HP each):
+Defend / Thunderbolt (145 all)
 
 [LEVEL]
-Bowser [10]: ATK
+	Mario [8] : SP
+
+MENU:
+	Order: Mario -> Mallow -> Geno
 
 JOHNNY (820 HP):
-Geno Boost Mario / Defend / 100 Super Jumps
-
-
-**If you really don’t want to block Bandana Blues and have freebied 2 or more Fire Bombs, give Peach the Safety Ring and swap her in over Mallow before Johnny, then:
-Geno Boost Mario / Fire Bomb / 100 Super Jumps
+Geno Boost Mario / 100 Super Jumps
 
 [LEVEL] 
-	Mario [8] : ATK
 Mallow [10] : SP
 
 MENU:
 	Geno: Safety Ring
-Map Warp to Seaside Town.
+Map Warp to Seaside Town
 
 ***Seaside Town 2***
-Say yes to Fake Elder
-If you are below 24FP, use any Flower Tabs/Jars/Boxes you have
+•	Say yes to Fake Elder
+•	If you are below 30FP, use any Flower Tabs/Jars/Boxes you have
 
-YARIDOVICH (1500 HP) (24 FP needed):
+YARIDOVICH (1500 HP) (30 FP needed):
+Geno Boost Mallow / Defend / Shocker (270)
+Swap to Peach and Group Hug / Defend / Shocker
+Defend / Swap to Bowser and Croaka Cola / Shocker
+Jump / Shocker / Attack
+Jump / Shocker / Attack
 
-Geno Boost Mallow / Shocker (270) / Defend
-Geno Boost Mario / Shocker / Use Croaka Cola
-
-No Waterblast 2nd round:
-Fright Bomb / Shocker / Fright Bomb (Fire Bomb if you got 2 freebies)
-Defend / Shocker / Fire Bomb
-
-Yes Waterblast 2nd round:
-Swap in Peach + Group Hug / Shocker / Fright Bomb (Fire Bomb if you got 2 freebies)
-Swap in Geno + Fright Bomb / Shocker / Fire Bomb
+------------------------------------------------------------------------------------------------------------------------------
+YOLO “spark his ass” YARID (32 FP needed)
+Geno Boost Mallow / Jump / Shocker
+Geno Croaka Cola / Shocker
+Mushroom Mallow if 2nd Water Blast / Shocker
+Swap to Bowser and Fire Bomb / Shocker
+Shocker
+------------------------------------------------------------------------------------------------------------------------------
 
 [LEVEL] 
 Peach [11] : HP
 
-Grab key, release town
-Head to weapon shop (left toad)
+•	Grab key, release town
+•	Head to weapon shop (left toad)
 
 IF FREEBIED, sell the Croaka Cola.
 
 BUY:
-	Paratroopa Shell (3 down)
-Hurly Gloves (6 up)
-Double Punch (2 up)
+	Paratroopa Shell (3 down) (equip)
+Hurly Gloves (6 up) (equip)
+Double Punch (2 up) (equip)
 
-Go talk to Elder to learn about Land’s End
-Warp to World Map
+•	Go talk to Elder to learn about Land’s End
+
+MENU:
+	Warp to World Map.
 
 ***Land’s End***
-Only if you want the safety: Get Red Essence from hidden chest on first screen
-For 2nd screen, you can either reveal the platform and then fire onto it (standard & safe method) or fire straight from the cannon into dog pit and dodge dogs (risky)
- For Gecko area, can either wait for geckos to walk off or do fast geckos (jump between them as they stay up top)
-Land on the rotating flowers holding up/left for optimal quick jumping
+•	Get Red Essence from hidden chest on first screen
+•	For 2nd screen, you can either reveal the platform and then fire onto it (standard & safe method) or fire straight from the cannon into dog pit and dodge dogs (risky)
+•	 For Gecko area, can either wait for geckos to walk off or do fast geckos (jump between them as they stay up top)
+•	Land on the rotating flowers holding up/left for optimal quick jumping
 
-SHOGUNS 1 (150 HP ea):
+SHOGUNS 1-4 (150 HP each):
+Geno Fire Bomb / Mallow Thunderbolt
+**You only need 1 of 7 Fire Bomb freebies to makes Shoguns free
 
-Ice Bomb OR Rock Candy
-
-SHOGUNS 2-4 (150 HP ea):
-
-If Freebied: Ice Bomb OR Rock Candy
-
-Perfect timed attack left / center / right (swap Bowser in on Mallow)
-
-**Make sure you keep one Ice Bomb with you past the Shoguns for the Megasmilax fight.
-
-** This list of level ups includes all levels from Shoguns:
-
-[LEVEL] 
+[LEVEL] ** This list of level ups includes all levels from Shoguns
 	Mario [9] : ATK
 Mallow [11] : SP
 Geno [10] : ATK
-
 Bowser [11]: ATK
 
-Get first star, kill 21 enemies
+•	Get first star, kill 21 enemies (this means 4 geckits after you fall down the hole) (if you missed any more than 1 Bob-omb on the Mines star you NEED all 21 enemies here)
 
 [LEVEL] 
-Mario [10] : SP
+Mario [10] : ATK
 Mallow [12] : SP
 Mallow [13] : HP
 Geno [11] : ATK
 Bowser [12]: ATK
 Peach [12]: HP
 
-Buy 2nd star for 400 coins, kill the rest of the Geckits
+•	Buy 2nd star for 400 coins, kill the rest of the Geckits
 
 [LEVEL] 
 	Mario [11] : SP
 
-Fortune Skip, setup by pachi_zx (saves over 20s):
+•	Fortune Skip, setup by pachi_zx (saves over 20s):
+•	Croaka Freebie from Yarid:
+o	Grab no coins from any chest
+•	No Croaka Freebie:
+o	Grab 100 coins from Merchant Chest and post-Merchant Chest
 
-Get 10 (maybe less) coins from the 150 coin chest (100 total) in Belome Temple if you didn’t freebie and sell the Croaka Cola in Seaside Town.
+BELOME 2 (1200 HP. 31 FP):
+***Always target Belome and ignore clones
+				
+Mario Fright Bomb (100) / Mallow Shocker (261) / Bowser swap to Geno and Attack (194-224)
+								
+NO ONE ASLEEP:
+Geno Attack (194-224) / Mallow Shocker (261) / Mario Super Fireball (209)
 
-If you have less than 30 flowers before Belome, use both Flower Boxes (keep the Jar for Barrel Volcano).
+MARIO OR MALLOW ASLEEP:
+Let them sleep. Don’t switch out.
+Attack / Shocker / Attack. Till Belome dies
 
-BELOME 2 (1200 HP) (28 FP needed):
+BOTH ASLEEP:						
+Swap to Peach and Group Hug / Shocker / Attack		
+Swap to Geno and Attack / Shocker
 
-IF 2x FIRE/1x FRIGHT BOMB FREEBIES:
+**If you got a Mallow or Geno clone, win Dodo mini game. Otherwise, fail ASAP and fight him	
 
-Fright Bomb / Swap to Mallow and Shocker / Attack
-Attack / Shocker / Attack
-
-**If you get a clone, ignore it and go after Belome.
-**You need at least 193 damage median from all 3 physical attacks in order to win on turn 2.
-**If one of your characters gets put to sleep, swap Peach in on Geno, Group Hug and continue the fight as normal. (swap Geno back in on Peach on turn 3)
-
-IF NOT ENOUGH FREEBIES:
-
-Attack / Terrorize / Attack
-Attack until dead
-
-**If only Mario is put to sleep after turn 1, ignore it and attack with Geno and Bowser. (damage roll to kill?)
-**If Bowser or both Bowser and Mario are put to sleep after turn 1, swap Mallow in on Bowser and Shocker + Attacks until dead.
-**If Terrorize misses, throw your Switch out the window. (maybe Group Hug + Terrorize again?)
-
-If Bowser OR Mallow Clone:			If Geno OR Mario OR Peach OR no Clone:
-[LEVEL] 					[LEVEL] 
-Mallow [14] : SP				Mallow [14] : SP
+[LEVEL]
+Mallow [14] : SP
 Geno [12] : ATK
 
 ***Monstro Town***
-Jump into cutscene towards Mario’s destination; saves frames over walking into place
-Talk to Monstromama in first door, go upstairs and talk to star, Get Mustache over the cliff
-Get Super Suit and Attack Scarf from K-9 next door
-Map Warp to Lands End (down x1) -> Belome Temple (down x1)
-Pay 100 coins for the trampoline
-Scale cliff in under 11 seconds for Troopa Medal
+•	Talk to Monstromama in first door, go upstairs and talk to star, Get Mustache over the cliff
+•	Get Super Suit and Attack Scarf from K-9 next door
+•	Warp to Lands End (down x1) -> Belome Temple (down x1)
+
+***Land’s End***
+•	Pay 100 coins for the trampoline
+•	Scale cliff in under 11 seconds for Troopa Medal
 
 MENU:
-	Order: Mario -> Mallow -> Geno
 	Mario: Super Suit, Attack Scarf
 	Mallow: Troopa Medal
-	Bowser: Exp Booster, if Fire Bomb or Poison Shroom for Dodo -> unequip Hurly Glove
+	Bowser: Exp Booster
 
 ***Bean Valley***
-Just do it
+•	Just do it
 
 MEGASMILAX (1000 HP):
-
 Attack / Snowy OR Ice Bomb (if 2 in inventory) OR Rock Candy / Ice Bomb OR Rock Candy
 Attack (right x1) / Snowy / Star Riders
 
-If Bowser Clone:				If Mallow Clone:
-[LEVEL]					[LEVEL]
-Bowser [13] : ATK				Peach [13] : HP
+[LEVEL]
 Peach [13] : HP
 
-If Geno OR Mario OR Peach OR no Clone:
-[LEVEL] 
-Geno [12] : ATK
-Peach [13] : HP
+•	Collect the flower from the chest on the 2nd screen if you scored less than 5 flowers on Booster Hill 
 
 ***Nimbus Land***
+BUY:
+	Mega Glove (equip)
 
-Go to shop and buy Mega Glove (equip).
-Buy any safety items you wish with whatever money you have
-Talk to the Mallow statue, then Garro.
-Cutscenes
-Don’t get caught by Dodo, grab Feather after minigame
-Collect the Flower in the chest near Heavy Troopa
+•	Talk to the Mallow statue, then Garro
+•	Cutscenes
+•	If you got a Mallow or Geno clone on Belome 2, win Dodo minigame
+•	If you did not get one of the above clones, spam Jump button to get caught by Dodo
+
+DODO 1 (800 HP):
+Super Fireball / Shocker
+
+[LEVEL] 
+Bowser [13] : ATK
+
+•	Collect the Flower in the chest near Heavy Troopa if you scored less than 11 flowers on Booster Hill
+•	If you scored less than 14 flowers on Booster Hill, talk to the bottom center NPC in the jail room for a Flower Jar
 
 HEAVY TROOPAS (250 HP):
 Defend / Snowy OR Rock Candy
 
-If Mallow OR Geno OR Mario OR Peach OR no Clone:
-[LEVEL] 
-Bowser [13] : ATK
+***If you don’t have chain going into this fight, Attack (w/ splash damage) with Mario instead of defending, THEN Snowy
 
 BIRDO (777 HP):
-Untimed Attack / Swap to Bowser and Attack / Untimed Boost Mario
-Attack / Attack / Attack 
-Mario Attacks, others defend for rest of turns.
+*All attacks+abilities are untimed if marked with this asterisk				
+*Attack /  Swap to Bowser and Attack / *Boost Mario	
+Attack / Attack / Attack 					
+Attack / Defend / Defend					
+Attack / Defend / Defend					
+Attack / Defend / Defend					
 
-If Bowser Clone:				If Mallow Clone:
-[LEVEL] 					[LEVEL] 
-Mario [12] : ATK				Bowser [13] : ATK
-Bowser [13] : ATK
+***If you mistimed a Mario attack against Dodo, attack with your other 2 characters ON THE THIRD TURN ONLY to recoup missing damage
 
-MENU: 
-Swap Geno for Mallow
+MENU: 						
+Swap Geno for Mallow				
 Mario: Exp Booster
 
 HEAVY TROOPAS (250 HP):
-	Defend / Snowy OR Rock Candy
-	***If you still have a Rock Candy for this fight, consider buying a lottery ticket.
+Defend / Snowy OR Rock Candy
 
-If Bowser OR Mallow Clone:
+***If you still have a Rock Candy for this fight, consider buying a lottery ticket.
+***If you don’t have chain going into this fight, Attack Splash Damage with Mario instead of Defending, THEN Snowy.
+
 [LEVEL] 
 Mario [12] : ATK
 
-Get star, kill 7 enemies (All enemies in the room with the star and all enemies in the room with Dodo)
-If you missed 1 or 2 enemies with the 1st Land’s End star, you can go back to the save box room and get an extra bird per enemy missed
+•	Get star, kill 7 enemies (All enemies in the room with the star and all enemies in the Dodo room)
 
-If Mallow OR Geno OR Mario OR Peach OR no Clone:
-[LEVEL] 
-Mario [12] : ATK
+MENU:						
+	Swap Mallow for Geno
+	Mario: Attack Scarf					
+	Bowser: Troopa Medal
+	Peach: EXP Booster
+Warp to Nimbus Land
 
-MENU:
-	Order: Mario -> Bowser -> Geno
-	Mario: Attack Scarf
-	Bowser: Exp Booster, then Troopa Medal (This swaps Exp Booster onto Mallow)
-Map Warp to Nimbus Land
-
-DODO (400 HP in 1st Phase):
-Fire Bomb OR Poison Mushroom
+DODO 2 (400 HP in 1st Phase):
+Fire Bomb if you have one
 Attack until Dodo Phase ends
 
 VALENTINA (2000 HP):
 Attack / Geno Boost Mario
-Attack / Attack / Attack with Bowser
+Attack / Attack / Attack
 Attack with Mario until dead and defend with your other guys if they’re still alive; throw in an extra attack with one of them if you mistimed an attack
 
-If Bowser OR Mallow OR Geno Clone:
-[LEVEL] 
-	Mallow [15]: SP
+•	After cutscenes:
 
-After cutscenes:
+MENU:						
+	Swap Bowser for Mallow				
+	Mario: Exp Booster					
+	Mallow: Troopa Medal and Super Suit						
+	Warp to Nimbus Land
 
-MENU:
-	Swap Bowser and Mallow
-	Mario: Exp Booster
-	Mallow: Troopa Medal
-	Map Warp back to Nimbus Land and head towards Barrel Volcano
+•	Head to the hot springs and fall into Barrel Volcano
 
 ***Barrel Volcano***
-Get at least 8 enemies with the star. To note: If you got a Bowser or Mallow clone you can afford to get 7 enemies instead of 8.
+•	Collect the Flower in the first chest you come by if you scored less than 10 flowers on Booster Hill
+•	Get -ONLY- 4 enemies with the star DataFace
+o	Prevents Geno from hitting Lvl 15 and has quicker movement
 
-If Bowser OR Mallow Clone:			If Geno Clone:
-[LEVEL] 					[LEVEL] 
-	Mario [13]: SP					Mario [13]: SP
-	Geno [13]: HP					Geno [13]: HP
-Bowser [14]: HP				Bowser [14]: HP				
+[LEVEL] 
+	Mallow [15]: SP
+Geno [13]: HP				
+Bowser [14]: ATK
 Peach [14]: HP
 
-If Mario OR Peach OR no Clone:
-[LEVEL] 
-	Mario [13]: SP
-	Mallow [15]: SP
-	Geno [13]: HP
-Bowser [14]: HP
-
-Grab the free Flower in the room with the save box
-Skip the Stumpet. If you accidentally run into it, go for Snowy.
+•	Grab the free Flower in the room with the save box
+•	Skip the Stumpet. If you accidentally run into it, go for Snowy.
 
 CORKPEDITE
-Defend / Snowy (Ice Bomb if freebied) 
+Snowy OR Ice Bomb (if any) 
 
-If Geno OR Mario OR no Clone:
-[LEVEL]
-	Peach [14]: HP
-
-Use your remaining Flower items at some point before Czar Dragon (refills FP in case you used Snowy on Corkpedite).
+[LEVEL] 
+	Mario [13]: ATK
 
 MENU:
 	Mario: Attack Scarf
+
+•	Use all Flower items at some point before Czar Dragon (refills FP in case you used Snowy on Corkpedite).
 	
 CZAR DRAGON (1400 HP) + ZOMBONE (1800 HP)
-Attack/Snowy (Ice Bomb if freebied)/Geno Boost Mario
-Attack/Snowy (Ice Bomb if freebied) - Zombone phase starts here/Attack
-Attack with Mario until dead.
+Snowy / Defend / Geno Boost Mario
+Snowy
 
-*If 36 FP here, could Shocker Zombone once, more if Ice Bomb is available
-*Tested this, yeah, I would go (Zombone phase starts) Geno Attacks, Mario Attacks, Shocker, Geno Attacks, Mario Attacks (5 Total Attacks) and he dies. I also think Bowser is worth swapping in as long as Geno survives to the Zombone phase and you time his first attack correctly. If he dies after, Bowser can attack on the next 2 turns and cover for the damage before Zombone attacks a 3rd time. If Geno dies early, then just 3 Mario Attacks + a Shocker OR 2 Bowser Attacks should cover the 1800 HP.-
+Zombone phase
+Attack / Attack
+Shocker / Attack / Attack
 
-MENU:
-	Order: Mario -> Mallow -> Geno (Only if a swap happened during Czar Dragon/Zombone)
-Geno: Feather
+**52.7% chance for extra Zombone action. 47.3% chance to skip it
 	
-AXEM RANGERS (31 FP):
+AXEM RANGERS (31 FP needed):
+Snowy (3 Directional inputs) / Half-time Jump Yellow (right x2) / Swap to Bowser and Triple Move
 
-Jump Yellow (right x2) / Swap to Bowser and Triple Move / Snowy
-Pick Me Up on Mallow with Mario / Shocker / Swap to Geno with Bowser and Attack
-Attack / Defend OR Attack if mistimed something / Shocker
+Blade phase:
+Shocker x2
 
-**CCB should kill Green and Pink, but there’s a chance Yellow also dies with a good roll. Just be aware that this can happen so that you don’t overmash by accident.
+***For a 3 Directional input Snowy, you can use the Dpad or do ¾ of a circle with the joystick.
+***Half-time jump ensures Axem Yellow doesn’t die to it in case you’re over on jumps in your run.
+***Axem Black has a chance to counter after Axem Green is taken care of by Snowy. If Mallow is targeted, a full block will be needed in order to not lose a billion to Breaker Beam.
+***If you half-time the first Shocker, you can swap in Geno over Bowser and Attack. This isn’t necessary because perfect timing the 2nd Shocker will still kill, so this is only a backup strat for those that aren’t confident in timing Shocker
 
-Go back to Nimbus Land, talk to King+Queen
-Map Warp to Nimbus Land after cutscenes
 
+•	Go back to Nimbus Land, talk to King+Queen
+•	Collect the Flower in the chest near where you jump on the NPC’s head in Nimbus Castle if you scored less than 8 flowers on Booster Hill
+•	Map Warp to Nimbus Land after cutscenes
 
+ 
 
 ***Bowser’s Keep***
-If you get a battle door, give up on it and retry.
-Since you’re capped at 3 Rock Candies, you only need to grab 3 out of the 4 available to you in BK. (invisible floor, both Topper door chests; rolling ball RC chest might be faster than one of the Topper chests, but there’s a higher chance of getting screwed over by the bombs)
-Grab Fright Bomb, Rock Candy and Ice Bomb in invisible floor room.
-Grab Fire Bomb and Croaka Cola in rotating platforms over lava room. Grab Royal Syrup if you want it as a backup for Smithy 2.
-Get Sonic Cymbals (chest after the rotating platforms over lava room)
-If you get the Super Slap, consider resetting.
+•	If you get a battle door, give up on it and retry.
+•	Get 1 Rock Candy from either Topper Quiz door prize
+•	Get Fright Bomb (if none in inventory), Rock Candy and Ice Bomb in invisible floor room.
+•	Collect the flower on in the last chest of the ball balancing room if you scored less than 9 flowers on Booster Hill
+•	Grab the Croaka Cola in rotating platforms over lava room. Grab Royal Syrup if you want it as a backup for Smithy 2 or if your Flower count is atrocious. Collect the flower in the first chest if you scored less than 6 flowers on Booster Hill.
+•	Get Sonic Cymbals (chest after the rotating platforms over lava room)
+•	If you get the Super Slap (chest after the DK room), consider resetting.
 
 Triathlon answers:
 1st: I outdid…
@@ -733,81 +708,82 @@ Triathlon answers:
 3rd: I placed the same in the swimming…
 4th: I came in third for swimming... 
 
+***If you see the 1st place text early, then you already know who is 1st and 2nd off of that info, so you can talk to one of the other 2 and determine the solution off of 2 characters
 
 MENU (before Wizakoopa):
-	Mallow: Sonic Cymbals
-Geno: Safety Ring
+Swap Bowser for Geno
+Mallow: Sonic Cymbals
 
 WIZAKOOPA (1600 HP):
 Attack / Fright Bomb / Attack
-Attack / Attack / (Attack if mistimed something)
+Attack / Attack / (Attack if you got awful luck on rolls or mistimed something)
 
 BOOMER (2000 HP) (37 FP needed for 3 Shockers, 29 FP if 2 Shockers):
-
-Jump / Shocker / Geno Boost Mario
-Jump / Shocker / Defend
-Jump / Shocker (could replace with Defend/Defend -> Blue Boomer starts -> Attack? Probably slower but should be timed)
-*If full chain and all attacks timed well, it’s just x3 Jumps and x3 Shockers is good. If you ½ time a jump I think the damage still works out. Slightly more then that, yeah, I’d say just skip the last Shocker and Attack on Turn 4.
+Shocker / Jump / Geno Boost Mario
+Shocker / Jump / Defend
+Shocker / Jump
 	
 EXOR
-Do the thing. (Jump on Left Eye (left x2), Geno Whirl Exor)
+Attack Left Eye (Left or Right x2) / Attack Left Eye / Geno Whirl Exor
+
+***If your chain is below 2, Snowy instead 
 
 ***Weapon World***
-Skip that slow-ass Ultra Hammer.
+•	Skip that slow-ass Ultra Hammer.
 
 COUNT DOWN (2400 HP) + RING-A-DING (1200 HP ea.)
-Attack / Snowy / Rock Candy
-Attack / Snowy / Swap to Bowser and Triple Move
-Jump / Attack with Mallow
-***If you mistime something, do a 2nd jump with Mario instead of attacking with Mallow (Defend/Defend with Bowser)
+Thunderbolt / Jump (252) / Swap to Bowser and Clown Car Barrage
 
-*If Mallow gets hit with a status effect by one of the Ring-a-Dings in round 1, have Mario use a Cleansing Juice then on Mario’s following turn do a physical attack instead of Jump then swap in Geno and attack instead of defend **V0oid edit: In general, if time marches on, or you get off the optimal script, you’ll have to play this fight out by ear a little bit. Just remember that getting rid of the Ring-a-Dings should be a priority.
+No Time Marches On:				Time Marches On:
+Mario fine and CCB <769:				CCB was 785+:
+Thunderbolt / Jump / Swap to Geno and Defend	Thunderbolt / Defend / Swap to Geno and Defend
+Shocker						Shocker
 
-If Bowser OR Mallow Clone:			If Geno Clone:
-[LEVEL]					[LEVEL]
-	Mario [14]: SP					Mario [14]: SP
-	Mallow [16]: SP				Mallow [16]: SP
-	Geno [14]: ATK				Geno [14]: ATK
-Peach [15]: HP
+Mario fine OR muted and CCB was 769+:		Mario fine/muted and CCB was <785:
+Thunderbolt / Attack / Swap to Geno and Defend	Thunderbolt / Attack / Swap to Geno and Defend
+Shocker						Shocker
 
-If Mario Clone:					If Peach OR no Clone: 
-[LEVEL]					[LEVEL]
-	Mario [14]: SP					Mario [14]: SP
-	Geno [14]: ATK
+Mario muted and CCB <769:			Mario shroomed and CCB was <785:
+Thunderbolt / Attack / Swap to Geno and Attack	Thunderbolt / Swap to Geno and Attack
+Shocker						Shocker
 
-Go for The Jump.
-Skip Machine Made Bowyer twice.
-Be a gamer.
+Mario shroomed:					Not Enough Gauge by Geno turn 1:
+Thunderbolt / Switch to Geno and Attack		Thunderbolt / Jump / Attack
+Shocker / Attack					Thunderbolt / Defend (if alive) / Attack
+—-------------------------------------------------------------	Thunderbolt / Defend (if alive) / Attack
+Time Marches On x2:				Shocker
+Thunderbolt / Swap to Geno, Pick Me Up Mario
+Shocker / Attack / Attack
+
+**If CCB, Mario, and Geno all min roll, throw your Switch out the window
+
+							
+
+
+•	Go for The Jump.
+•	Skip Machine Made Bowyer twice.
+•	Be a gamer.
 
 MACHINE MADE YARID (800 HP):
-13 Ultra Jumps/Rock Candy
-***If you don’t have Ultra Jump by this point, do 17 Super Jumps instead.
+Snowy / Jump / Rock Candy
 
-If Bowser OR Mallow Clone:			If Geno Clone:
-[LEVEL]					[LEVEL]
-Bowser [15]: HP				Bowser [15]: HP
-							Peach [15]: HP
-
-If Mario Clone:					If Peach OR no Clone:
-[LEVEL]					[LEVEL]
-Mallow [16]: SP				Mallow [16]: SP
-Peach [15]: HP				Geno [14]: ATK
+[LEVEL]
+Mario [14]: SP
+Geno [14]: ATK 
+Bowser [15]: HP
+Peach [15]: HP
+				
 
 CLOAKER (1200 HP), DOMINO (900 HP) & MAD ADDER (1500HP):
-Jump Cloaker / Shocker Cloaker / Switch to Geno, Boost Mario
-Jump Cloaker / Attack Cloaker OR Shocker Cloaker if you mistimed something
-Snake phase starts / Attack snake with Geno
-Attack / Attack
-Defend (Unless Mallow died, then Attack) / Attack
-	
-***I’m sure there’s a good Earthlink strat out there, but considering how fast spell animations are in this compared to OG on top of slower SJ’s, I went with a Mad Adder strat (for now…?).
+Shocker Cloaker (472) / Super Fireball Cloaker (298) / Geno Boost Mario
+Shocker Cloaker
 
-If Mario OR no Clone:
+Mad Adder Phase:
+Attack (Left, Down or Right x1) / Attack
+Attack / Attack / Attack
+
 [LEVEL]
-Bowser [15]: HP
-
-MENU:
- Mallow: Super Suit
+Mallow [16]: SP
 
 ***Factory***
 
@@ -817,43 +793,126 @@ Thunderbolt
 CLERK (500 HP) + MAD MALLETS (200 HP ea)
 Thunderbolt / Attack / Attack	
 
+•	Make a note of how much gauge and chain you have after the following fight
+
 MANAGER (800 HP) + POUNDER (180 HP ea)
 Snowy / Defend / Defend
+Snowy
+
+***Only do this menu if you are below 92% gauge after Manager, or 82% if you are getting a multiple of 10 chain (Gauge Boost) with Mallow or Mario’s turns in the next battle.
+Menu:
+	Swap Geno for Peach
+	Peach: Work Pants
+
+DIRECTOR (1000 HP) + POUNDETTE (150 HP ea)
+Snowy / Attack / Star Riders
+
+If you didn’t have enough gauge:
+Snowy / Super Fireball / Sleepy Time
+Snowy / Super Fireball
+**If you brought in Peach: Party Order: Mario -> Mallow -> Geno
+
+
+If Mallow Clone + 8 Volcano Enemies:
+[LEVEL]
+	Mario [15]: SP
+
+FACTORY CHIEF (1000 HP)  + GUNYOLK (1500 HP)
+Snowy / Jump FC / Swap to Peach and Sleepy Time
+Defend / Jump FC / Swap to Geno and Attack FC
 Snowy
 
 MENU:
 	Mario: Super Suit
 
-DIRECTOR (1000 HP) + POUNDETTE (150 HP ea)
-33 Super Jumps (Left x2) / Rock Candy
+SMITHY 1 (2000 HP - 34 FP needed)
+Attack / Rock Candy / Geno Boost Mario
 
-FACTORY CHIEF (1000 HP)  + GUNYOLK (1500 HP)
+If Mario is Lv15 (SJ’s are 195 base, 24 extra damage per):
+40 SJ’s if 248+ w/ attack, 41 if less / Rock Candy
 
-Jump FC / Snowy / Swap to Peach and Sleepy Time
-Rock Candy / Ice Bomb / Swap to Geno and Defend
-Defend / Snowy OR Ice Bomb (if any)
-
-[LEVEL]
-	Mario [15]: SP
-
-SMITHY 1 (2000 HP)
-(34 FP - SJ’s are 195 base, 24 extra damage per):
-With RC freebie:
-Attack / Shocker / Geno Boost Mario
-45 SJ’s if 245+ w/ attack, 46 if less / Rock Candy
-Without RC freebie:
-Attack / Fire Bomb / Geno Boost Mario
-50 SJ’s if 245+ w/attack, 51 if less / Shocker OR Fire Bomb (if any)
-*IceBlue broutht this up and I like it a lot, if you drop early, have Geno Geno Boost himself, then end on SJ’s after Smithy’s 2nd attack. If he doesn’t kill Geno, then you can push 2500 damage before Tank Head phase in Smithy 2. **V0oid edit: Geno needs to not die to the ensuing attack for this to be viable (unless Geno Boost carries over to phase 2 even if the character dies).
+If Mario is LV14 (SJ’s are 184 base, 23 extra damage per): 
+42 SJ’s if 250+ w/ attack, 43 if less / Rock Candy
 
 SMITHY 2 (8000 HP)
-(SJ’s are 270 base, 33 extra damage per on Tank Head):
-Star Riders with Geno / Attack / Attack / Attack (should be ~1.9k damage total)
-Tank Head phase
-Super Jump / Shocker (585) / Croaka Cola
-Super Jump / Shocker
-***you need 134 Super Jumps over 2 sets, go for 69 twice if you’re a chad.
-***swapping Mallow out and back in after Shredder does NOT reset the Troopa Medal boost.
-***snowy should do ~350 to Safe Head.
-***All physicals if Mage Head shows up, all fire if Chest Head shows up, all despairge if
-Safe Head shows up. Yes, this needs A LOT OF work and sciencing lmao.
+Attack
+Attack / Attack / Attack
+Jump / Shocker / Geno Boost self
+Jump / Shocker / Croaka Cola
+
+Tank Head:
+Jump / Attack / Attack (***Lower DPS attempting to bait Mage Head)
+Jump / Shocker / Attack (Use Star Riders if possible) 
+
+Mage Head:
+Attack / Red Essence Mallow / Star Riders
+Attack / Attack / Attack (Use Star Riders if possible)
+
+Chest Head:
+Super Fireball / Attack (Use Fire Bomb if freebied) / Attack (Use Star Riders if possible)
+
+Safe Head:
+Begin crying uncontrollably
+Attack / Snowy / Attack
+Attack / Snowy / Geno Boost Mario
+
+
+
+
+LEVEL UP BONUSES (* denotes new move learned)
+Mario [2] : SP			Mallow [3*] : SP		Geno [7] : HP
+Mario [3*] : ATK		Mallow [4] : SP		Geno [8*] : HP
+Mario [4] : ATK		Mallow [5] : SP		Geno [9] : ATK
+Mario [5] : SP			Mallow [6] : SP		Geno [10] : ATK
+Mario [6*] : ATK		Mallow [7] : SP		Geno [11*] : ATK
+Mario [7] : SP			Mallow [8] : SP		Geno [12] : ATK
+Mario [8] : SP			Mallow [9] : SP		Geno [13] : HP
+Mario [9] : ATK		Mallow [10*] : SP		Geno [14*] : ATK
+Mario [10*] : ATK		Mallow [11] : SP		
+Mario [11] : SP		Mallow [12] : SP		
+Mario [12] : ATK		Mallow [13] : HP		
+Mario [13]: ATK		Mallow [14*] : SP		
+Mario [14*]: SP		Mallow [15] : SP		
+				Mallow [16] : SP		
+
+Bowser [9] : ATK		Peach [10] : HP
+Bowser [10] : ATK		Peach [11*] : HP
+Bowser [11] : ATK		Peach [12] : HP
+Bowser [12*] : ATK		Peach [13*] : HP
+Bowser [13] : ATK		Peach [14] : HP
+Bowser [14] : ATK		Peach [15*] : HP
+Bowser [15*] : HP
+
+OPTIMAL FLOWER ROUTE
+Base: 				10
+Mushroom Way chest: 	11
+Mushroom Way tab:		12
+Hammer Bros jar:		15
+Rose Town chests:		17
+Croco 1 tab:			18
+Bowyer box:			23
+Croco 2 box:			23 / 28
+KGGG jar:			26 / 31
+Booster Hill (14 / 9):		40
+Shed Key box:			45
+Volcano chest:		46
+
+JUMP COUNT
+Terrapins: 			2
+Bowser: 			4
+Hammer Bros.: 		8
+Croco: 				15
+Claymorton: 			21
+Belome: 			27
+Bowyer: 			28
+Croco 2: 			32
+Booster:			34
+Bundt: 				36
+Yarid:				38
+Axem Rangers: 		39
+Boomer: 			42
+Count Down: 			43
+Gunyolk: 			45
+Smithy 2 (Tank Head): 	46 and counting
+
+
